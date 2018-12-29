@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Original code")
         print("BranchOne")
+        print("New message for branch one")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
